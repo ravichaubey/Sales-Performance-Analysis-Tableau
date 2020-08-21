@@ -8,4 +8,4 @@ Mike Goodman, the head of Product Management of a retail products company, is re
 
 1. Tableau 10 Desktop
 
-`You can directly see the dashboard on Tableau Public Server. [Click Here](https://public.tableau.com/profile/ravi.ranjan.chaubey#!/vizhome/SalesPerformanceAnalysis_15762923520030/Dashboard)`
+`You can directly see the dashboard on Tableau Public Server.` [Click Here](https://public.tableau.com/profile/ravi.ranjan.chaubey#!/vizhome/SalesPerformanceAnalysis_15762923520030/Dashboard)
